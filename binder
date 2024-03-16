@@ -1,0 +1,6 @@
+binder:
+  spec: 
+    dependencies:
+      - jupyterlab
+      - numpy
+      - matplotlib
